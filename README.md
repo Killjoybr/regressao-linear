@@ -1,4 +1,4 @@
-# Codigos-de-Regressão-Linear-e=Logística
+# Codigos-de-Regressão-Linear-e-Logística
 Atividade de alugueis: [Código](./aluguel_linear.ipynb)
 
 Coeficientes do modelo: 
